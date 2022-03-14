@@ -26,7 +26,7 @@ Global server settings:
   - sonar.forceAuthentication=true
 Project server settings:
 Project scanner properties:
-  - sonar.coverage.jacoco.xmlReportPaths=C:/Users/Talel/git/JavaSonar/JavaSonar/target/test-classes
+  - sonar.coverage.jacoco.xmlReportPaths=C:/Users/Talel/git/JavaSonar/JavaSonar/src/test/java/test
   - sonar.host.url=http://10.241.4.96
   - sonar.java.binaries=C:/Users/Talel/git/JavaSonar/JavaSonar/target/classes
   - sonar.java.test.binaries=C:/Users/Talel/git/JavaSonar/JavaSonar/target/test-classes

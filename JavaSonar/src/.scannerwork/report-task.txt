@@ -2,5 +2,5 @@ projectKey=JavaSonar
 serverUrl=http://10.241.4.96
 serverVersion=7.9.1.27448
 dashboardUrl=http://10.241.4.96/dashboard?id=JavaSonar
-ceTaskId=AX-J_tst6_0B1iY0FkEa
-ceTaskUrl=http://10.241.4.96/api/ce/task?id=AX-J_tst6_0B1iY0FkEa
+ceTaskId=AX-KF9Sx6_0B1iY0FkEd
+ceTaskUrl=http://10.241.4.96/api/ce/task?id=AX-KF9Sx6_0B1iY0FkEd
