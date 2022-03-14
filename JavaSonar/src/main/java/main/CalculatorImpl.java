@@ -1,7 +1,12 @@
 package main;
 
 public class CalculatorImpl implements Calculator {
-
+	
+	public static void main(String[] args) {
+		CalculatorImpl calc = new CalculatorImpl();
+		int val = calc.add(2,4);
+	}
+	
 	//Multiplication
 	public int multiply(int a, int b) {
 		int res = 0;

@@ -10,5 +10,14 @@
 	    <artifactId>sonar-maven-plugin</artifactId>
 	    <version>3.9.1.2184</version>
 	</dependency>
+	
+	<!-- https://mvnrepository.com/artifact/org.jacoco/org.jacoco.core -->
+	<dependency>
+	    <groupId>org.jacoco</groupId>
+	    <artifactId>org.jacoco.core</artifactId>
+	    <version>0.8.7</version>
+	</dependency>
+
+	
   </dependencies>
 </project>
