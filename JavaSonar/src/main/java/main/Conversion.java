@@ -30,7 +30,7 @@ public class Conversion {
 				else if (sens == 2) { 
 					resultat = val / tauxMK;
 				}
-				//Autres valeurs invalides pour sens
+				//Autres valeurs invalides pour sens 
 				else {
 					resultat = 0;
 				}
